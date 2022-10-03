@@ -1,4 +1,4 @@
-# Welcome to Plingus-Manor...!
+# Welcome to Plingus Manor...!
 
 ## Plingus Mannor is a competitive multiplayer quake map for two to four players being created by Warren Hernandez
 
